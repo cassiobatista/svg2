@@ -10,6 +10,9 @@
 from xml.dom import minidom
 import re
 
+__author__ = 'Cassio Batista'
+__version__ = '0.2'
+
 class SVG:
     """ High-level SVG interface containing the only manipulations I need
 
